@@ -1,0 +1,30 @@
+{
+  "name": "visto9259/zend-webpack",
+  "description": "",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Eric Richer",
+      "email": "eric.richer@vistoconsulting.com",
+      "role": "Lead"
+    }
+  ],
+  "require": {
+    "zendframework/zend-stdlib": "^3.2",
+    "zendframework/zend-modulemanager": "^2.8",
+    "zendframework/zend-mvc": "^3.1",
+    "zendframework/zend-view": "^2.11",
+    "zendframework/zend-eventmanager": "^3.2",
+    "zendframework/zend-servicemanager": "^3.4",
+    "php": "^7.2"
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "Webpack\\": "src"
+    }
+  }
+}
