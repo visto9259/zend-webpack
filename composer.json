@@ -3,6 +3,7 @@
   "description": "",
   "version": "1.0.0",
   "license": "MIT",
+  "abandoned": "visto9259/laminas-webpack",
   "authors": [
     {
       "name": "Eric Richer",
